@@ -1,4 +1,5 @@
 pub mod player;
+mod resource;
 
 use godot::prelude::*;
 
